@@ -1,7 +1,7 @@
 Aqua Cleaner
 ============
 
-Entry in PyWeek #31 <https://itch.io/jam/seajam>
+Entry in SeaJam <https://itch.io/jam/seajam>
 Name: Prathamesh Anant Bhatkar
 Team:
 Members:
